@@ -89,3 +89,19 @@ h2 {
     margin-inline-end: 0px;
     font-weight: bold;
 }
+
+label {
+    display: block;
+}
+
+.actions {
+    margin-bottom: 10px;
+}
+
+.field {
+    margin-bottom: 10px;
+}
+
+#notice {
+color: green;
+}
